@@ -9,7 +9,7 @@ float moyenne(int a, int b){
 
 int main(){
 	int x,y;
-	printf("Projet collaboratif\n");
+	printf("modification sur main\n");
 	printf("entrer la valeur de x =");
 	scanf("%d",&x);
 	printf("entrer la valeur de y =");
